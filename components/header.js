@@ -25,7 +25,6 @@ export default function Header(){
                             프로젝트
                         </Link>
 
-                        <a href="/" className="mr-5 hover:text-gray-900">연락하기</a>
 
                     </nav>
                     {/* 다크모드 토글 버튼 작업해야함 */}
